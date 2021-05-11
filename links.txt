@@ -1,0 +1,49 @@
+------------ links of Login Page------------------
+<link rel="stylesheet" href="includes/css/new1.css" type="text/css">
+	<link href="includes/css/assets/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="includes/css/assets/css/material-dashboard.css?v=1.2.0" rel="stylesheet" />
+	<link href="includes/css/bootstrap/css/bootstrap1.min.css" rel="stylesheet" />
+	<script src="includes/css/bootstrap/js/jquery.min.js" ></script> 
+	<script src="includes/css/bootstrap/js/bootstrap1.min.js" ></script>
+
+
+
+
+
+
+
+
+
+
+<!-- Useless Links of Login
+
+<!--  <link rel="apple-touch-icon" sizes="76x76" href="includes/css/assets/img/apple-icon.png" /> 
+<!--  <link rel="icon" type="image/png" href="includes/css/assets/img/favicon.png" /> --!>
+  
+  <link rel="stylesheet" href="includes/css/new1.css" type="text/css">
+  <link href="includes/css/assets/css/bootstrap.min.css" rel="stylesheet" />
+  <!--  Material Dashboard CSS    -->
+  <link href="includes/css/assets/css/material-dashboard.css?v=1.2.0" rel="stylesheet" />
+  <!--  CSS for Demo Purpose, don't include it in your project     -->
+<!--  <link href="includes/css/assets/css/demo.css" rel="stylesheet" />
+  <!--     Fonts and icons     -->
+  <link href="includes/css/bootstrap/css/bootstrap1.min.css" rel="stylesheet" />
+    <link href="includes/css/bootstrap/css/font-awesome.min.css" rel="stylesheet" />
+	<script src="includes/css/bootstrap/js/jquery.min.js" ></script>
+  <script src="includes/css/bootstrap/js/bootstrap1.min.js" ></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+
+
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" type="text/css" href="plugins/cubeportfolio/css/cubeportfolio.min.css">
+	<link href="css/nivo-lightbox.css" rel="stylesheet" />
+	<link href="includes/css/default.css" rel="stylesheet" type="text/css" />
+	<link href="includes/css/owl.carousel.css" rel="stylesheet" media="screen" />
+    <link href="css/owl.theme.css" rel="stylesheet" media="screen" />
+	<link href="css/animate.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet">
+-->
