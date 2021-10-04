@@ -96,7 +96,7 @@ CREATE TABLE Editor_Response (
 	CONSTRAINT FK1_EID FOREIGN KEY (ID) REFERENCES Manuscript (ID)	
 );
 	
-INSERT INTO `users`( `Title`, `First_Name`, `Last_Name`, `Degree`, `Password`, `Email`, `Area_of_Speciality`, `Access_level`) VALUES ("Mr", "John", "Doe", "BSE", "binuh2am", "johndoe44@gmail.com", "AI", "Editor" );
+INSERT INTO `users`( `Title`, `First_Name`, `Last_Name`, `Degree`, `Password`, `Email`, `Area_of_Speciality`, `Access_level`) VALUES ("Mr", "Nickeel", "Chandra", "BSE", "binuh2am", "nickeelchandra@gmail.com", "AI", "Editor" );
 
 
 
